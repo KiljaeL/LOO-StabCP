@@ -30,13 +30,13 @@ To reproduce the results in Section 5.2, run:
 python Real.py
 ```
 
-To reproduce the results in Section 6, download data from Kaggle:
+To reproduce the results in Section 6, please download the dataset from Kaggle:
 
 [Factors Affecting Campus Placement](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
 
-Please download the dataset from the link above as the name of `recruit.csv` before running the experiments.
+Once downloaded, rename the file to `recruit.csv` and place it in the root directory of this repository (the same level as this `README.md` file).
 
-And then, run:
+After that, run the following command to execute the experiments:
 
 ```bash
 python Recruit.py
