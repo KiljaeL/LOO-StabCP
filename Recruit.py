@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 T = 10; S = 100
 qgrid = np.array([0.1,0.2,0.3])
 
-recruit = pd.read_csv('recruit.csv', index_col=0)
+recruit = pd.read_csv('Data/recruit.csv', index_col=0)
 recruit = recruit.drop(columns=['salary'])
 recruit = pd.get_dummies(recruit, columns=['gender', 'ssc_b', 'hsc_b', 'hsc_s', 'degree_t', 'workex', 'specialisation', 'status'], drop_first=True)
 
