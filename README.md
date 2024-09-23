@@ -34,7 +34,7 @@ To reproduce the results in Section 6, download data from Kaggle:
 
 [Factors Affecting Campus Placement](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
 
-Please download the dataset from the link above and place it in the `data/` directory before running the experiments.
+Please download the dataset from the link above as the name of `recruit.csv` before running the experiments.
 
 And then, run:
 
