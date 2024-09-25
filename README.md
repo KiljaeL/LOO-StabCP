@@ -1,6 +1,6 @@
-# Fast Yet Precise Conformal Prediction with Leave-One-Out Algorithmic Stability
+# Leave-One-Out Stable Conformal Prediction
 
-This repository contains the implementation and experiments for the paper titled **"Fast Yet Precise Conformal Prediction with Leave-One-Out Algorithmic Stability"**, submitted to ICLR 2025.
+This repository contains the implementation and experiments for the paper titled **"Leave-One-Out Stable Conformal Prediction"**, submitted to ICLR 2025.
 
 ## Contents
 - `Figure/`: figures from the experiments.
