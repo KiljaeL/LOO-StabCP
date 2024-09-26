@@ -18,19 +18,19 @@ pip install -r requirements.txt
 
 ## Running the Experiments
 
-To reproduce the results in Section 5.1, run:
+To reproduce the results in Section 4.1, run:
 
 ```bash
 python Synthetic.py
 ```
 
-To reproduce the results in Section 5.2, run:
+To reproduce the results in Section 4.2, run:
 
 ```bash
 python Real.py
 ```
 
-To reproduce the results in Section 6, please download the dataset from Kaggle:
+To reproduce the results in Section 5, please download the dataset from Kaggle:
 
 [Factors Affecting Campus Placement](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
 
