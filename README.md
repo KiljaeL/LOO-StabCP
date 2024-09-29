@@ -36,7 +36,7 @@ To reproduce the results in Section 6, please download the dataset from Kaggle:
 
 Once downloaded, rename the file to `recruit.csv` and place it in the root directory of this repository (the same level as this `README.md` file).
 
-After that, run the following command to execute the experiments:
+After that, run:
 
 ```bash
 python Recruit.py
