@@ -1,6 +1,8 @@
 # Leave-One-Out Stable Conformal Prediction
 
-This contains the implementation and experiments for the paper titled **"Leave-One-Out Stable Conformal Prediction"**, submitted to ICLR 2025.
+By Kiljae Lee and Yuan Zhang.
+
+This repository provides an implementation of the paper titled **"Leave-One-Out Stable Conformal Prediction"** accepted at ICLR 2025.
 
 ## Requirements
 - Python 3.x
